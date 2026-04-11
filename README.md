@@ -10,7 +10,7 @@
 
 * 🎓 Student Software Engineer / Self‑taught Developer
 * 💡 I enjoy building **real-world projects** and solving problems
-* 🚀 Currently learning **Advanced Python & Java**
+* 🚀 Currently learning **Java**
 
 ---
 
