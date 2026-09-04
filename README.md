@@ -63,7 +63,6 @@
 
 * 💼 GitHub: [https://github.com/LynxCodez](https://github.com/LynxCodez)
 * 📧 Email: [chubbymaxwell41@gmail.com](mailto:chubbymaxwell41@gmail.com)
-* 💬 Discord: Lynx#1161
 
 ---
 
