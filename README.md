@@ -1,71 +1,126 @@
-# 👋 Hi, I'm **LynxCodez**
+# 👋 Hey, I'm **LynxCodez**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+Web+Dev;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+Developer;Java+%7C+Web+Development;Databases+%7C+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>Building projects, solving problems, and turning ideas into software.</em>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Student Software Engineer / Self‑taught Developer
-* 💡 I enjoy building **real-world projects** and solving problems
-* 🚀 Currently learning **Java**
+- 🎓 Software Engineering student at **NIIT**, pursuing the Mastermind Software Engineering programme.
+- 🐍 Earned an **NIIT Python certificate** after successfully passing the Python examination.
+- 🗄️ Completed and defended a **MongoDB Customer Segmentation project**, involving database design, data analysis, and visual reporting.
+- 💻 Currently expanding my skills in **Java, JavaScript, and front-end web development**.
+- 🌐 Exploring networking and Linux fundamentals through **Cisco Networking Academy** coursework.
+- 🚀 Interested in building practical applications, exploring new technologies, and continuously improving as a developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Frameworks
+### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+### 🔧 Tools & Technologies
 
-## 📌 Featured Projects
-
-### 🌦️ Weather Application
-
-> A modern weather app with admin dashboard, user logs, and forecasts
-
-* 🔹 Python + CustomTkinter
-* 🔹 API Integration
-* 🔹 Admin analytics & logging
-
-🔗 **Repo:** [https://github.com/LynxCodez/Weather-app-Weatherly](https://github.com/LynxCodez/Weather-app-Weatherly)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🌦️ [Weatherly — Weather Application](https://github.com/LynxCodez/Weather-app-Weatherly)
+
+A weather application featuring weather forecasts, an administrative dashboard, and user activity logging.
+
+- 🐍 Built with Python and CustomTkinter.
+- 🌐 Integrates weather API data.
+- 📊 Includes administrative analytics and activity logs.
+- 🖥️ Features a graphical desktop interface.
+
+### 🗄️ MongoDB Customer Segmentation
+
+An academic database project focused on organizing customer data and extracting useful business insights.
+
+- Designed and populated MongoDB collections for customers, orders, and products.
+- Explored database queries and data analysis.
+- Used MongoDB Atlas Charts for visual reporting.
+- Analyzed customer segments, regional sales, and monthly sales trends.
+- Successfully completed the project defense.
+
+### 🏦 Pulse Bank — Smart Banking Application
+
+A Java desktop banking application developed around core banking interface and transaction workflows.
+
+- ☕ Java and Java Swing.
+- 🖥️ GUI development with NetBeans.
+- 💳 Focused on banking operations and user interaction.
+
+### 🍔 DishDash — Food Ordering Web Project
+
+A Nigerian food-focused web application concept featuring local menu options and Naira pricing.
+
+- 🌐 HTML5 and CSS3.
+- ⚡ Vanilla JavaScript and jQuery.
+- 🗄️ Supabase integration planned for backend functionality.
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Java programming and object-oriented development.
+- 🌐 JavaScript, DOM manipulation, and jQuery.
+- 🐧 Linux fundamentals and command-line operations.
+- 🌐 Computer networking through Cisco Networking Academy.
+- 💡 Writing better code and building more complete applications.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LynxCodez&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=LynxCodez&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCodez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-* 💼 GitHub: [https://github.com/LynxCodez](https://github.com/LynxCodez)
-* 📧 Email: [chubbymaxwell41@gmail.com](mailto:chubbymaxwell41@gmail.com)
+- 💼 GitHub: [@LynxCodez](https://github.com/LynxCodez)
+- 📧 Email: [chubbymaxwell41@gmail.com](mailto:chubbymaxwell41@gmail.com)
 
 ---
 
 <p align="center">
-  <strong>⭐ If you like my work, consider starring my repositories!</strong>
+  <strong>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</strong>
+</p>
+
+<p align="center">
+  <em>Keep building. Keep learning. Keep improving. 🚀</em>
 </p>
